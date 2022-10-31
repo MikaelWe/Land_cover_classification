@@ -8,7 +8,7 @@ Imagine you have a computer with you. You could use its power and speed of calcu
 
 You could try to find the perfect algorithm that will test thousand of conditions : What are the differences between an industrial and a residential area ?
 
-From which distance between houses you can consider that this is residencial ? How the computer will now if this is a road or a river ? The color, distance, width ? Difficult to find these values to describe all the differences.
+From which distance between houses you can consider that this is residencial ? How the computer will now if this is a road or a river ? The color, distance, width ? Difficult to find the values that will describe all the differences.
 
 And what happens if your boss give you "classical" images instead of satellite images. A pasture photo has nothing to do with the one taken by a satellite...You spent X months working on the perfect algorithm for nothing... 
 
