@@ -12,6 +12,6 @@ From which distance between houses you can consider that this is residencial ? H
 
 And what happens if your boss give you "classical" images instead of satellite images. A pasture photo has nothing to do with the one taken by a satellite...You spent X months working on the perfect algorithm for nothing... 
 
-And what if instead of creating all the conditions, you let the machine learn by itself giving some examples and using some mathematicals functions and tools. That is deep learning.
+And what if instead of creating all the conditions, you let the machine learn by itself giving it some examples and using some mathematicals functions and tools. That is deep learning.
 
 The project describes a deep learning model (and some variants) enable to classify satellite images amoung 10 categories.
